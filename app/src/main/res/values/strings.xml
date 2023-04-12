@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GitHubUser</string>
+    <string name="user_name">Username</string>
+    <string name="search_username">Search Username</string>
+    <string name="search">Search</string>
+    <string name="username">Username</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_name_1">Followers</string>
+    <string name="tab_name_2">Followings</string>
+    <string name="no_followings">No Followings</string>
+    <string name="no_followers">No Followers</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+    <string name="name">name</string>
+    <string name="zero_followers">0 Followers</string>
+    <string name="zero_following">0 Following</string>
+    <string name="content_tab">TabLayout</string>
+    <string name="load_content">loading...</string>
+    <string name="favorite_user_button">Favorite user button</string>
+    <string name="favorite_page">Favorite Page</string>
+    <string name="no_favorite_user">No Favorite User</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="setting">Setting</string>
+    <string name="splash_screen">Splash Screen</string>
+</resources>
